@@ -32,6 +32,18 @@ cd NodeBackend
 npm install
 ```
 
+### 📦 Packages installés
+
+#### Dépendances principales
+- `express` : Framework web pour Node.js
+- `mongoose` : ODM pour MongoDB
+- `cors` : Middleware pour gérer les CORS
+- `dotenv` : Gestion des variables d'environnement
+- `body-parser` : Middleware pour parser les requêtes
+
+#### Dépendances de développement
+- `nodemon` : Redémarrage automatique du serveur lors des modifications
+
 ### 4️⃣ Démarrer le serveur
 
 En mode normal :
