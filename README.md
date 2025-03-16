@@ -23,7 +23,7 @@ Ce projet est une API REST pour gérer les produits, construite avec **Node.js**
 
 ```bash
 git clone https://github.com/waelby99/NodeBackend.git
-cd restapi
+cd NodeBackend
 ```
 
 ### 3️⃣ Installer les dépendances
